@@ -1,6 +1,6 @@
-# Controls and compliance checklist exemplar
+# Controls and compliance checklist
 
-Select “yes” or “no” to answer the question: *Does Botium Toys currently have this control in place?*
+Select “yes” or “no” to answer the question
 
 **Controls assessment checklist**
 
@@ -11,7 +11,6 @@ Select “yes” or “no” to answer the question: *Does Botium Toys currently
 |  |  | Password policies | *Employee password requirements are minimal, which could allow a threat actor to more easily access secure data/other assets via employee work equipment/the internal network.* |
 |  |  | Separation of duties | *Needs to be implemented to reduce the possibility of fraud/access to critical data, since the company CEO currently runs day-to-day operations and manages the payroll.* |
 |  |  | Firewall | *The existing firewall blocks traffic based on an appropriately defined set of security rules.* |
-|  |  |  |  |
 |  |  | Intrusion detection system (IDS) | *The IT department needs an IDS in place to help identify possible intrusions by threat actors.* |
 |  |  | Backups | *The IT department needs to have backups of critical data, in the case of a breach, to ensure business continuity.* |
 |  |  | Antivirus software | *Antivirus software is installed and monitored regularly by the IT department.* |
@@ -54,11 +53,3 @@ System and Organizations Controls (SOC type 1, SOC type 2\)
 |  |  | Sensitive data (PII/SPII) is confidential/private. | *Encryption is not currently used to better ensure the confidentiality of PII/SPII.* |
 |  |  | Data integrity ensures the data is consistent, complete, accurate, and has been validated. | *Data integrity is in place.* |
 |  |  | Data is available to individuals authorized to access it. | *While data is available to all employees, authorization needs to be limited to only the individuals who need access to it to do their jobs.* |
-
----
-
-**Recommendations (optional):**  In this section, provide recommendations, related to controls and/or compliance needs, that your IT manager could communicate to stakeholders to reduce risks to assets and improve Botium Toys’ security posture.
-
-*Multiple controls need to be implemented to improve Botium Toys’ security posture and better ensure the confidentiality of sensitive information, including: Least Privilege, disaster recovery plans, password policies, separation of duties, an IDS, ongoing legacy system management, encryption, and a password management system.*
-
-*To address gaps in compliance, Botium Toys needs to implement controls such as Least Privilege, separation of duties, and encryption. The company also needs to properly classify assets, to identify additional controls that may need to be implemented to improve their security posture and better protect sensitive information.*  

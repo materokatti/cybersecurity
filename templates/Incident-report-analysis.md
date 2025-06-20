@@ -1,4 +1,4 @@
-**Incident report analysis - Example**
+**Incident report analysis**
 
 | Section   | Description |
 | :----     | :---- |
